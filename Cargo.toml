@@ -1,0 +1,6 @@
+[package]
+name = "my-first-rust"
+version = "0.1.0"
+authors = ["aditya <aaditya.n.reddy@gmail.com>"]
+
+[dependencies]
